@@ -1,0 +1,66 @@
+body{
+  background-color: #01398D;
+}
+#box1{
+  margin-top: 80px;
+  margin-right: 180px;
+
+}
+
+.conteudo{
+  display: table;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+
+#box2{
+  margin-top: 90px;
+  margin-left: 160px;
+
+}
+
+.text{
+  color: #FFFFFF;
+  text-align:justify;
+  margin-top: 40px;
+  display: table-cell;
+  margin-bottom: 10%;
+
+}
+.imagem{
+
+  display: table-cell;
+
+}
+
+.conteudo2{
+  display: table;
+  margin-left: 100px;
+
+}
+
+.text2{
+  color: #FFFFFF;
+  text-align:justify;
+  margin-top: 40px;
+  display: table-cell;
+
+}
+
+hr{
+  background-color: #9ebfef;
+}
+
+.imagem2{
+
+  display: table-cell;
+  margin-right: 700px;
+}
+
+.titulo{
+  margin-top: 10%;
+  margin-left: 47%;
+  margin-bottom: 5%;
+  color: #FFFFFF;
+  font-family: 'Rubik Mono One', monospace;
+}
